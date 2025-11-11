@@ -1,6 +1,6 @@
 # Battery-Life-cycle-data-preparation- 
 
-![View Interactive Plot](photo/battery_cycle_life_distribution.html)
+[View Interactive Plot](photo/battery_cycle_life_distribution.html)
 
 # 📘 Overview
 
@@ -42,8 +42,10 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 | **Batch 3** | 2018-04-12 | Two-step fast charging    | 10-minute fixed charge, four pauses of 5 seconds, C/20 CV limit, and 33 ms IR pulses, with 3–8 cells per rule.        |
 
 
+# Data Preprocessing
 
 ![dfghjk](photo/data_dig.png)
+
 
 
 
