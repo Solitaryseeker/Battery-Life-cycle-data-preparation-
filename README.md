@@ -2,15 +2,15 @@
 
 
 
-# 📘 Overview
+#  Overview
 
 This repository contains data preparation and preprocessing scripts for the study of 124 commercial lithium-ion batteries (APR18650M1A) manufactured by A123 Systems.
 The dataset is designed for exploring early-cycle degradation markers and battery cycle life prediction using machine learning and deep learning approaches.
 
 The repository demonstrates how to convert complex hierarchical .mat files into structured and analysis-ready tabular datasets suitable for Python-based modeling workflows.
 
-# 🔬 Dataset Description
-# 🧪 Battery Specifications
+#  Dataset Description
+#  Battery Specifications
 
 * Cell Type: APR18650M1A (A123 Systems)
 
@@ -23,7 +23,7 @@ The repository demonstrates how to convert complex hierarchical .mat files into 
 * Key [: Supports fast charging and high-rate discharging — ideal for life-cycle and degradation studies
 
 
-⚙️ Experimental Setup
+#  Experimental Setup
 
 All experiments were conducted using 48-channel Arbin LBT potentiostats within a temperature-controlled chamber at 30 °C.
 
@@ -33,7 +33,7 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 
 * IR measurements were taken at 80% SOC with ten ±3.6C pulses lasting 30–33 ms (depending on batch).
 
-# 🧫 Experimental Batches
+# Experimental Batches
 
   | **Batch**   | **Date**   | **Charging Policy**       | **Notable Parameters**                                                                                                |
 | :---------- | :--------- | :------------------------ | :-------------------------------------------------------------------------------------------------------------------- |
@@ -52,6 +52,20 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 
  [the distribution of battery cycle life, highlighting failure](photo/battery_cycle_life_distribution.html)
 
+
+# Perform ML
+
+| **Model**                     |  **MSE** | **RMSE** | **R² Score** |
+| :---------------------------- | -------: | -------: | -----------: |
+| **LightGBM Regressor**        | 1199.115 |   34.628 |        0.991 |
+| **XGBoost Regressor**         | 1123.371 |   33.517 |        0.992 |
+| **K-Nearest Neighbors (KNN)** |  271.087 |   16.465 |        0.998 |
+| **Decision Tree Regressor**   | 5809.059 |   76.217 |        0.957 |
+| **Random Forest Regressor**   | 4554.930 |   67.490 |        0.966 |
+
+
+
 # use data set 
 [Data set](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
+
 
