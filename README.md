@@ -1,6 +1,6 @@
 # Battery-Life-cycle-data-preparation- 
 
-[View Interactive Plot](photo/battery_cycle_life_distribution.html)
+
 
 # 📘 Overview
 
@@ -46,6 +46,11 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 
 ![dfghjk](photo/data_dig.png)
 
+ The same extraction and cleaning procedure was applied to the rest of the batches, ensuring that each file was trans formed from its initial MATLAB format to a uniform tabular format. After processing all batches, the resulting DataFrames were combined into one unified dataset. This unified dataset not only combined measurements across different cells and batches but also delivered a uniform structure with each row
+ a cycle and each column recording a particular feature of interest. Last but not least, the dataset was saved as a CSV file, thus being both light and convenient for subsequent statistical analysis, machine learning tasks, deep learning or long-term data storage.
+
+# 
+ [the distribution of battery cycle life, highlighting failure](photo/battery_cycle_life_distribution.html)
 
 
 
