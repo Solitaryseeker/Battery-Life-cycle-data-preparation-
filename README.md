@@ -1,4 +1,4 @@
-#lithium-ion Battery-Life-cycle-data-preparation 
+# lithium-ion Battery-Life-cycle-data-preparation 
 
 
 
@@ -67,6 +67,7 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 
 # use data set 
 [Data set](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
+
 
 
 
