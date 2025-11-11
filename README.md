@@ -53,7 +53,7 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
  [the distribution of battery cycle life, highlighting failure](photo/battery_cycle_life_distribution.html)
 
 
-# Perform ML
+# Perform Machine Learning
 
 | **Model**                     |  **MSE** | **RMSE** | **R² Score** |
 | :---------------------------- | -------: | -------: | -----------: |
@@ -67,5 +67,6 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 
 # use data set 
 [Data set](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
+
 
 
