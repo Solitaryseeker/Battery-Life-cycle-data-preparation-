@@ -20,7 +20,7 @@ The repository demonstrates how to convert complex hierarchical .mat files into 
 
 * Nominal Capacity: 1.1 Ah
 
-* Key Feature: Supports fast charging and high-rate discharging — ideal for life-cycle and degradation studies
+* Key [: Supports fast charging and high-rate discharging — ideal for life-cycle and degradation studies
 
 
 ⚙️ Experimental Setup
@@ -43,4 +43,5 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 
 
 
+[dfghjk](photo/data_dig.png)
 
