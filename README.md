@@ -1,6 +1,6 @@
 # Battery-Life-cycle-data-preparation- 
 
-[View Interactive Plot](photo/battery_cycle_life_distribution.html)
+![View Interactive Plot](photo/battery_cycle_life_distribution.html)
 
 # 📘 Overview
 
@@ -44,5 +44,6 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 
 
 ![dfghjk](photo/data_dig.png)
+
 
 
