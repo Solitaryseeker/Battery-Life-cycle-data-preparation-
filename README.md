@@ -1,4 +1,4 @@
-# lithium-ion Battery-Life-cycle-data-preparation and Perform Machine Learning 
+# lithium ion Battery Life cycle data preparation and Perform Machine Learning 
 
 
 
@@ -70,6 +70,7 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 
 # Creat Dataset
 [Creat Dataset](https://www.kaggle.com/datasets/solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset)
+
 
 
 
