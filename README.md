@@ -65,11 +65,13 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 
 
 
-# Use data set 
+# Data set use in hear 
 [Data set](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
 
-# Creat Dataset
+# Creat Dataset 
+It also use you 
 [Creat Dataset](https://www.kaggle.com/datasets/solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset)
+
 
 
 
