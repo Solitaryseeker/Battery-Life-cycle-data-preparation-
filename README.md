@@ -1,26 +1,49 @@
 # lithium ion Battery Life cycle data preparation and Perform Machine Learning 
 
+A Python-based data preparation and machine learning workflow for lithium-ion battery cycle life prediction.
+
+---
+## 🚀 Project Overview
+
+This repository provides a complete pipeline for:
+
+- Converting raw battery `.mat` files into structured datasets  
+- Cleaning and preprocessing cycle data  
+- Feature engineering for early degradation analysis  
+- Training machine learning models for battery life prediction  
+
+The main objective is to transform raw experimental battery data into machine-learning-ready datasets and benchmark predictive models.
+
+----
+
+## 📦 Dataset Description
+
+The dataset includes information from **124 commercial lithium-ion cells (APR18650M1A)**.
+
+**Cell Specifications:**
+
+- **Cell Type:** APR18650M1A  
+- **Chemistry:** Lithium Iron Phosphate (LFP) / Graphite  
+- **Nominal Voltage:** 3.3 V  
+- **Nominal Capacity:** 1.1 Ah
+
+The original raw dataset used in this project is available here:
+
+🔗 **Battery Dataset (Original Source)**  
+[Data set](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
+
+This dataset contains raw lithium-ion battery cycling data including voltage, current, temperature, and resistance measurements.
 
 
-#  Overview
+The dataset contains time-series measurements including:
 
-This repository contains data preparation and preprocessing scripts for the study of 124 commercial lithium-ion batteries (APR18650M1A) manufactured by A123 Systems.
-The dataset is designed for exploring early-cycle degradation markers and battery cycle life prediction using machine learning and deep learning approaches.
+- Voltage  
+- Current  
+- Temperature  
+- Internal resistance  
+- Charge and discharge cycle data  
 
-The repository demonstrates how to convert complex hierarchical .mat files into structured and analysis-ready tabular datasets suitable for Python-based modeling workflows.
-
-#  Dataset Description
-#  Battery Specifications
-
-* Cell Type: APR18650M1A (A123 Systems)
-
-* Chemistry: Lithium Iron Phosphate (LFP) / Graphite
-
-* Nominal Voltage: 3.3 V
-
-* Nominal Capacity: 1.1 Ah
-
-* Key [: Supports fast charging and high-rate discharging — ideal for life-cycle and degradation studies
+---
 
 
 #  Experimental Setup
@@ -71,6 +94,7 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 # Creat Dataset 
 It also use you 
 [Creat Dataset](https://www.kaggle.com/datasets/solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset)
+
 
 
 
