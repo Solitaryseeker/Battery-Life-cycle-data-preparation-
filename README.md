@@ -76,6 +76,24 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
  [the distribution of battery cycle life, highlighting failure](photo/battery_cycle_life_distribution.html)
 
 
+
+# 📊 Created Dataset (Processed Version)
+
+A cleaned and structured version of the dataset created from this preprocessing pipeline is available on Kaggle:
+
+🔗 **Processed Dataset (Kaggle Version)**  
+[Creat Dataset](https://www.kaggle.com/datasets/solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset)
+
+This version includes:
+
+- Structured tabular format  
+- Cleaned cycle data  
+- Machine-learning-ready features  
+- CSV format for easy integration  
+
+---
+
+
 # Perform Machine Learning
 
 | **Model**                     |  **MSE** | **RMSE** | **R² Score** |
@@ -86,14 +104,6 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 | **Decision Tree Regressor**   | 5809.059 |   76.217 |        0.957 |
 | **Random Forest Regressor**   | 4554.930 |   67.490 |        0.966 |
 
-
-
-# Data set use in hear 
-[Data set](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
-
-# Creat Dataset 
-It also use you 
-[Creat Dataset](https://www.kaggle.com/datasets/solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset)
 
 
 
