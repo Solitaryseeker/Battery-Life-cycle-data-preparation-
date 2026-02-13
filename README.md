@@ -106,6 +106,36 @@ This version includes:
 
 
 
+## 🤝 Contributing
+
+Contributions are welcome!
+
+You can contribute by:
+
+- Improving feature engineering
+- Adding new ML models
+- Enhancing preprocessing scripts
+- Improving documentation
+
+Please open an issue or submit a pull request.
+
+---
+
+
+
+## 👤 Author
+
+**Rohit Sahu**  
+Machine Learning & NLP Enthusiast  
+
+📧 Email: quantumsolitaryseeker@gmail.com  
+
+🔗 LinkedIn: https://www.linkedin.com/in/rohit-sahu-7142742a7/
+
+🐙 GitHub: https://github.com/Solitaryseeker
+
+---
+
 
 
 
