@@ -82,7 +82,7 @@ All experiments were conducted using 48-channel Arbin LBT potentiostats within a
 A cleaned and structured version of the dataset created from this preprocessing pipeline is available on Kaggle:
 
 🔗 **Processed Dataset (Kaggle Version)**  
-[Creat Dataset](https://www.kaggle.com/datasets/solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset)
+[ Dataset](https://www.kaggle.com/datasets/solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset)
 
 This version includes:
 
@@ -135,6 +135,7 @@ Machine Learning & NLP Enthusiast
 🐙 GitHub: https://github.com/Solitaryseeker
 
 ---
+
 
 
 
