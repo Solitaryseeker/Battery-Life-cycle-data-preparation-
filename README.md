@@ -94,17 +94,6 @@ This version includes:
 ---
 
 
-# Perform Machine Learning
-
-| **Model**                     |  **MSE** | **RMSE** | **R² Score** |
-| :---------------------------- | -------: | -------: | -----------: |
-| **LightGBM Regressor**        | 1199.115 |   34.628 |        0.991 |
-| **XGBoost Regressor**         | 1123.371 |   33.517 |        0.992 |
-| **K-Nearest Neighbors (KNN)** |  271.087 |   16.465 |        0.998 |
-| **Decision Tree Regressor**   | 5809.059 |   76.217 |        0.957 |
-| **Random Forest Regressor**   | 4554.930 |   67.490 |        0.966 |
-
-
 
 ## 🤝 Contributing
 
